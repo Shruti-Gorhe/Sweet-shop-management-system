@@ -1,12 +1,5 @@
 # Sweet-shop-management-system🎂🍰
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/Shruti-Gorhe/Sweet-shop-management-system)
-[![Node.js](https://img.shields.io/badge/Node.js-v22.12.0-green)](https://nodejs.org/)
-[![React](https://img.shields.io/badge/React-19.0.0-blue)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)](https://www.typescriptlang.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-In--Memory-green)](https://www.mongodb.com/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-blue)](https://tailwindcss.com/)
-
 A comprehensive full-stack web application for managing a sweet shop, built using **Test-Driven Development (TDD)** methodology. This project demonstrates modern web development practices with a complete MERN stack implementation, featuring authentication, inventory management, and a responsive user interface.
 
 ## 🌐 Public Repository
