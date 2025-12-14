@@ -185,22 +185,22 @@ Clean, modern authentication interface with gradient backgrounds and sweet shop 
 ### 2. Admin Panel - Add/Delete Items
 Admin interface for adding new products and deleting existing items with full CRUD operations.
 
-![Admin Panel for Items](screenshots/Sweet shop 3.png)
+![Admin Panel for Items](screenshots/Sweet_shop3.png)
 
 ### 3. Admin Panel - Inventory Management
 Comprehensive admin interface for managing sweet inventory with full CRUD operations.
 
-![Admin Panel](screenshots/Sweet shop 2.png)
+![Admin Panel](screenshots/Sweet_shop2.png)
 
 ### 4. User Dashboard - Sweet Catalog
 User browsing experience with AI-generated product images, pricing, and add to cart functionality.
 
-![User Dashboard](screenshots/Sweet shop 4.png)
+![User Dashboard](screenshots/Sweet_shop4.png)
 
 ### 5. User Dashboard - Stock Reduction
 User dashboard showing real-time stock reduction when items are added to cart, demonstrating inventory updates.
 
-![User Dashboard Stock Update](screenshots/Sweet shop 4.png)
+![User Dashboard Stock Update](screenshots/Sweet_shop4.png)
 
 ### Key Visual Features Demonstrated:
 - ✨ **AI-Generated Images**: Every product has unique AI-created visuals
