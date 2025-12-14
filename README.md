@@ -310,12 +310,6 @@ This project leverages a **modern, scalable, and production-ready tech stack**, 
 - **Nodemon** — Automatic server restarts during development  
 ---
 
-
-
-## 🔧 Development Methodology - Test-Driven Development (TDD)
-
-This project was built following strict **Test-Driven Development (TDD)** principles:
-
 ## 🔧 Development Methodology — Test-Driven Development (TDD)
 
 This project strictly follows **Test-Driven Development (TDD)** principles to ensure high code quality, reliability, and maintainability.
@@ -846,14 +840,6 @@ We welcome contributions to the Sweet Shop Management System! Here's how you can
 - **Open Source Libraries** - All the maintainers of the dependencies used in this project
 - **Unsplash** - For providing beautiful, free images for our sweet products
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. **Check the Troubleshooting section** in this README
-2. **Review the Environment Setup Guide** in ENVIRONMENT.md
-3. **Check existing GitHub Issues** for similar problems
-4. **Create a new issue** with detailed information about your problem
 
 ## 🔗 Links
 
