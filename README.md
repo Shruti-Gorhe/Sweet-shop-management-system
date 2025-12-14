@@ -180,24 +180,24 @@ The Sweet Shop Management System features a modern, responsive interface with AI
 ### 1. Login Page
 Clean, modern authentication interface with gradient backgrounds and sweet shop branding.
 
-![Login Page](screenshots/Sweet Shop 1.png)
+![Login Page](screenshots/Sweet_Shop1.png)
 
 ### 2. Admin Panel - Add/Delete Items
 Admin interface for adding new products and deleting existing items with full CRUD operations.
 
 ![Admin Panel for Items](screenshots/Sweet shop 3.png)
 
-### 5. Admin Panel - Inventory Management
+### 3. Admin Panel - Inventory Management
 Comprehensive admin interface for managing sweet inventory with full CRUD operations.
 
 ![Admin Panel](screenshots/Sweet shop 2.png)
 
-### 6. User Dashboard - Sweet Catalog
+### 4. User Dashboard - Sweet Catalog
 User browsing experience with AI-generated product images, pricing, and add to cart functionality.
 
 ![User Dashboard](screenshots/Sweet shop 4.png)
 
-### 7. User Dashboard - Stock Reduction
+### 5. User Dashboard - Stock Reduction
 User dashboard showing real-time stock reduction when items are added to cart, demonstrating inventory updates.
 
 ![User Dashboard Stock Update](screenshots/Sweet shop 4.png)
