@@ -180,7 +180,7 @@ The Sweet Shop Management System features a modern, responsive interface with AI
 ### 1. Login Page
 Clean, modern authentication interface with gradient backgrounds and sweet shop branding.
 
-![Login Page](screenshots/Sweet_Shop1.png)
+![Login Page](screenshots/Sweet_shop1.png)
 
 ### 2. Admin Panel - Add/Delete Items
 Admin interface for adding new products and deleting existing items with full CRUD operations.
